@@ -111,9 +111,9 @@ const Navbar = () => {
 const Hero = () => {
   const socialLinks = [
     { icon: Github, url: 'https://github.com/ArifulIslam016', label: 'GitHub' },
-    { icon: Linkedin, url: 'https://linkedin.com/in/ariful-islam-708366', label: 'LinkedIn' },
+    { icon: Linkedin, url: 'https://www.linkedin.com/in/arifulislam-dev', label: 'LinkedIn' },
     { icon: Twitter, url: 'https://x.com/ArifulIsla6692', label: 'Twitter' },
-    { icon: Facebook, url: '#', label: 'Facebook' }
+    { icon: Facebook, url: 'https://www.facebook.com/ariful.islam.708366', label: 'Facebook' }
   ];
 
   const scrollToContact = () => {
@@ -879,8 +879,8 @@ const Contact = () => {
 
   const contactInfo = [
     { icon: Mail, label: 'Email', value: 'arifulq234@gmail.com', href: 'mailto:arifulq234@gmail.com' },
-    { icon: Phone, label: 'Phone', value: '+880 1234 567 890', href: 'tel:+8801234567890' },
-    { icon: Phone, label: 'WhatsApp', value: '+880 1234 567 890', href: 'https://wa.me/8801234567890' }
+    { icon: Phone, label: 'Phone', value: '+880 1610 854 092', href: 'tel:+8801610 854 092' },
+    { icon: Phone, label: 'WhatsApp', value: '+880 1610 854 092', href: 'https://wa.me/8801610854092' }
   ];
 
   return (
@@ -1075,9 +1075,9 @@ const Contact = () => {
 const Footer = () => {
   const socialLinks = [
     { icon: Github, url: 'https://github.com/ArifulIslam016' },
-    { icon: Linkedin, url: 'https://linkedin.com/in/ariful-islam-708366' },
+    { icon: Linkedin, url: 'https://www.linkedin.com/in/arifulislam-dev' },
     { icon: Twitter, url: 'https://x.com/ArifulIsla6692' },
-    { icon: Facebook, url: '#' }
+    { icon: Facebook, url: 'https://www.facebook.com/ariful.islam.708366' }
   ];
 
   return (
